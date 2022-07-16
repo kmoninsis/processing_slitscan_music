@@ -1,0 +1,8 @@
+Requirements
+
+Processing 3.5.4
+- processing.video.*
+- themidibus.*
+
+loopMidi 
+Abletone Live
